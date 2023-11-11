@@ -368,7 +368,7 @@ In the popup, double-click ``player.tscn``. The character should appear in the
 center of the viewport.
 
 Select the newly instanciated Player node, in the Inspector tab under Node 
-section, load the previously created player script i.e. Player.gd.
+section, load the previously created player script i.e. ``Player.gd.``.
 
 |image12|
 
